@@ -1,30 +1,54 @@
-# DSA Practice
+# 📘 DSA Practice
 
-This repository contains my Data Structures and Algorithms practice in C++.
+This repository contains my Data Structures and Algorithms practice using C++.
 
-## Topics Covered
-- Arrays
-- Strings
-- Linked List
-- Trees
+---
 
-## Problems Added
-### Arrays
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Move Zeroes
-- Sort Colors
+## 🚀 Topics Covered
 
-### Strings
-- Valid Anagram
-- Valid Palindrome
-- Longest Common Prefix
+### 📊 Arrays
 
-### Linked List
-- Reverse Linked List
-- Middle of Linked List
+* Two Sum
+* Best Time to Buy and Sell Stock
+* Contains Duplicate
+* Move Zeroes
+* Sort Colors
 
-### Trees
-- Maximum Depth of Binary Tree
-- Invert Binary Tree
+### 🔤 Strings
+
+* Valid Anagram
+* Valid Palindrome
+* Longest Common Prefix
+
+### 🔗 Linked List
+
+* Reverse Linked List
+* Middle of Linked List
+
+### 🌳 Trees
+
+* Maximum Depth of Binary Tree
+* Invert Binary Tree
+
+---
+
+## 💻 Language Used
+
+* C++
+
+---
+
+## 🎯 Goal
+
+To strengthen problem-solving skills and prepare for coding interviews.
+
+---
+
+## 📈 Progress
+
+* Problems Solved: 12+
+* Daily practice ongoing 🚀
+
+---
+
+⭐ *Consistency is the key to success*
