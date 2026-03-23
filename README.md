@@ -1,3 +1,6 @@
+🔥 Solving problems daily from LeetCode
+🔗 [LeetCode](https://leetcode.com/u/Akshita_ag_26/)
+
 # 📘 DSA Practice
 
 This repository contains my Data Structures and Algorithms practice using C++.
